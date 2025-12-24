@@ -3,6 +3,10 @@
   "name": "rodrigo-lsp",
   "version": "1.0.0",
   "description": "LSP plugins for Claude Code by Rodrigo Pinto",
+  "owner": {
+    "name": "Rodrigo Pinto",
+    "email": "rodrigo@socialprompts.ai"
+  },
   "plugins": [
     {
       "name": "typescript-lsp",
