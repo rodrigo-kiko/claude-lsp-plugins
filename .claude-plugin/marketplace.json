@@ -12,7 +12,7 @@
       "name": "typescript-lsp",
       "description": "TypeScript/JavaScript Language Server Protocol support for Claude Code",
       "version": "1.0.0",
-      "source": "./plugins/typescript-lsp",
+      "source": "./typescript-lsp",
       "category": "development"
     }
   ]
