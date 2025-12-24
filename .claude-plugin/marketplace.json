@@ -1,0 +1,17 @@
+{
+  "name": "rodrigo-lsp",
+  "description": "LSP plugins for Claude Code by Rodrigo Pinto",
+  "plugins": [
+    {
+      "id": "typescript-lsp",
+      "name": "TypeScript LSP",
+      "description": "TypeScript/JavaScript Language Server Protocol support for Claude Code",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "rodrigo-kiko/claude-lsp-plugins",
+        "path": "typescript-lsp"
+      }
+    }
+  ]
+}

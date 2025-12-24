@@ -1,0 +1,5 @@
+{
+  "name": "typescript-lsp",
+  "description": "TypeScript/JavaScript Language Server Protocol support for Claude Code",
+  "version": "1.0.0"
+}
