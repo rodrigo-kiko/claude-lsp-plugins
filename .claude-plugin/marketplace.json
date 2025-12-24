@@ -1,17 +1,15 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "rodrigo-lsp",
+  "version": "1.0.0",
   "description": "LSP plugins for Claude Code by Rodrigo Pinto",
   "plugins": [
     {
-      "id": "typescript-lsp",
-      "name": "TypeScript LSP",
+      "name": "typescript-lsp",
       "description": "TypeScript/JavaScript Language Server Protocol support for Claude Code",
       "version": "1.0.0",
-      "source": {
-        "source": "github",
-        "repo": "rodrigo-kiko/claude-lsp-plugins",
-        "path": "typescript-lsp"
-      }
+      "source": "./plugins/typescript-lsp",
+      "category": "development"
     }
   ]
 }
