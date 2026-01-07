@@ -5,7 +5,7 @@
   "description": "LSP plugins for Claude Code by Rodrigo Pinto",
   "owner": {
     "name": "Rodrigo Pinto",
-    "email": "rodrigo@socialprompts.ai"
+    "email": "rodrigo.pinto@socialprompts.ai"
   },
   "plugins": [
     {
